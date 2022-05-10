@@ -1,10 +1,4 @@
-####################
-# Project 09       #
-# CSE 231 Sect 007 #
-####################
-
-#############################################################################
-# Assignment Overview                                                       
+#############################################################################                                                    
 #   Pokemon Statistics                                                      
 #       Prompts the User For File to Read                                   
 #           Re-loops until Readable File is Entered                         
@@ -15,8 +9,6 @@
 #       Loops Until User Quits                                              
 #                                                                           
 #############################################################################
-
-#Starter Code
 
 import csv,copy
 from typing import List
